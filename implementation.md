@@ -8,8 +8,8 @@ This project demonstrates a fully automated CI/CD pipeline that deploys a Docker
 
 ### 🔄 Architecture Flow
 
-GitHub Repository → GitHub Actions → Docker Hub → EC2 Instance → Running Container
 
+![Workflow Screenshot](https://github.com/ansh565/devops-app/blob/main/Screenshots/ChatGPT%20Image%20May%205,%202026,%2009_12_28%20PM.png?raw=true)
 ---
 
 ## 🪜 Step 1: Create Node.js Application
