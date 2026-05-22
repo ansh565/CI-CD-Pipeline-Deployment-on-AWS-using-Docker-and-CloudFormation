@@ -1,4 +1,4 @@
-# 🚀 PROJECT: Docker CI/CD Deployment on AWS EC2 using GitHub Actions
+# PROJECT: Docker CI/CD Deployment on AWS EC2 using GitHub Actions
 
 ---
 
